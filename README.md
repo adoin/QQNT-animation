@@ -1,4 +1,4 @@
-# Plugin-Template
-
-LiteLoaderQQNT的插件模板  
-LiteLoaderQQNT本体：[LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT)
+## QQNT-animation
+QQNT动画库
+### 使用 animate.css
+暂定快速维护class的方式实现
